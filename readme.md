@@ -1,0 +1,1 @@
+-> Criar commites pequenos `Atomicos`
